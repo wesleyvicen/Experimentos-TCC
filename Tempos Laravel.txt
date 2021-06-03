@@ -1,0 +1,55 @@
+Registro dos tempos e quantidades de queries por processamento
+
+Framework: Laravel
+
+1 Query
+
+Tempo 1: 47.34 ms
+Tempo 2: 32.29 ms
+Tempo 3: 30.52 ms
+Tempo 4: 30.77 ms
+Tempo 5: 34.70 ms
+Tempo 6: 42.26 ms
+Tempo 7: 38.36 ms
+Tempo 8: 30.07 ms
+Tempo 9: 21.61 ms
+Tempo 10: 21.27 ms
+
+10 Queries
+
+Tempo 1: 157.45 ms
+Tempo 2: 221.25 ms
+Tempo 3: 237.83 ms
+Tempo 4: 183.80 ms
+Tempo 5: 216.20 ms
+Tempo 6: 197.67 ms
+Tempo 7: 168.13 ms
+Tempo 8: 230.73 ms
+Tempo 9: 189.69 ms
+Tempo 10: 202.64 ms
+
+100 Queries
+
+Tempo 1: 2124.98 ms
+Tempo 2: 1574.90 ms
+Tempo 3: 1965.90 ms
+Tempo 4: 2080.63 ms
+Tempo 5: 1853.13 ms
+Tempo 6: 2012.78 ms
+Tempo 7: 1822.01 ms
+Tempo 8: 2118.85 ms
+Tempo 9: 2110.80 ms
+Tempo 10: 1807.79 ms
+
+1000 Queries
+
+Tempo 1: 22916.66 ms
+Tempo 2: 20894.95 ms
+Tempo 3: 20046.55 ms
+Tempo 4: 22015.63 ms
+Tempo 5: 19868.26 ms
+Tempo 6: 24150.08 ms
+Tempo 7: 28099.06 ms
+Tempo 8: 26544.54 ms
+Tempo 9: 24776.27 ms
+Tempo 10: 23138.16 ms

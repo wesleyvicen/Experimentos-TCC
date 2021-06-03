@@ -1,0 +1,56 @@
+Registro dos tempos e quantidades de queries por processamento
+
+Framework: CakePHP
+
+
+1 Query
+
+Tempo 1: 53.41 ms
+Tempo 2: 74.02 ms
+Tempo 3: 56.81 ms
+Tempo 4: 87.89 ms
+Tempo 5: 70.27 ms
+Tempo 6: 66.49 ms
+Tempo 7: 54.37 ms
+Tempo 8: 53.01 ms
+Tempo 9: 72.97 ms
+Tempo 10: 52.10 ms
+
+10 Queries
+
+Tempo 1: 371.20 ms
+Tempo 2: 381.98 ms
+Tempo 3: 311.05 ms
+Tempo 4: 301.02 ms
+Tempo 5: 249.03 ms
+Tempo 6: 355.23 ms
+Tempo 7: 445.63 ms
+Tempo 8: 376.99 ms
+Tempo 9: 505.71 ms
+Tempo 10: 346.49 ms
+
+100 Queries
+
+Tempo 1: 3733.18 ms
+Tempo 2: 3373.08 ms
+Tempo 3: 3227.17 ms
+Tempo 4: 2025.41 ms
+Tempo 5: 2103.58 ms
+Tempo 6: 3090.63 ms
+Tempo 7: 3039.25 ms
+Tempo 8: 4683.07 ms
+Tempo 9: 4479.86 ms
+Tempo 10: 3140.20 ms
+
+1000 Queries
+
+Tempo 1: 34699.00 ms
+Tempo 2: 34261.75 ms
+Tempo 3: 35774.17 ms
+Tempo 4: 33835.85 ms
+Tempo 5: 33937.75 ms
+Tempo 6: 36627.00 ms
+Tempo 7: 38273.90 ms
+Tempo 8: 35233.81 ms
+Tempo 9: 34190.06 ms
+Tempo 10: 32551.99 ms

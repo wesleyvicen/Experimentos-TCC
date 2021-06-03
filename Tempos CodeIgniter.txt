@@ -1,0 +1,55 @@
+Registro dos tempos e quantidades de queries por processamento
+
+Framework: CodeIgniter
+
+1 Query
+
+Tempo 1: 34.77 ms
+Tempo 2: 27.25 ms
+Tempo 3: 28.99 ms
+Tempo 4: 43.61 ms
+Tempo 5: 37.97 ms
+Tempo 6: 41.34 ms
+Tempo 7: 30.89 ms
+Tempo 8: 36.29 ms
+Tempo 9: 40.26 ms
+Tempo 10: 33.06 ms
+
+10 Queries
+
+Tempo 1: 173.09 ms
+Tempo 2: 139.64 ms
+Tempo 3: 156.32 ms
+Tempo 4: 159.91 ms
+Tempo 5: 139.72 ms
+Tempo 6: 174.58 ms
+Tempo 7: 151.15 ms
+Tempo 8: 176.78 ms
+Tempo 9: 138.76 ms
+Tempo 10: 178.45 ms
+
+100 Queries
+
+Tempo 1: 1344.07 ms
+Tempo 2: 1592.54 ms
+Tempo 3: 1369.55 ms
+Tempo 4: 1433.39 ms
+Tempo 5: 1483.14 ms
+Tempo 6: 1620.96 ms
+Tempo 7: 1479.66 ms
+Tempo 8: 1808.89 ms
+Tempo 9: 1564.54 ms
+Tempo 10: 1530.17 ms
+
+1000 Queries
+
+Tempo: 16567.47 ms
+Tempo: 16372.64 ms
+Tempo: 17714.95 ms
+Tempo: 18462.33 ms
+Tempo: 18610.20 ms
+Tempo: 19579.28 ms
+Tempo: 19864.42 ms
+Tempo: 20041.22 ms
+Tempo: 21005.59 ms
+Tempo: 20613.68 ms
